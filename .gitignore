@@ -1,0 +1,12 @@
+.classpath
+.project
+.settings/
+target/
+
+
+beeter-android.apk
+resources.ap_
+classes.dex
+bin/
+gen/
+local.properties
